@@ -1,8 +1,0 @@
-streamlit>=1.46,<2
-pandas>=2.2,<3
-numpy>=2.0,<3
-plotly>=6.0,<7
-SQLAlchemy>=2.0,<3
-psycopg[binary]>=3.2,<4
-bcrypt>=4.2,<5
-python-dateutil>=2.9,<3
